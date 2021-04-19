@@ -17,7 +17,10 @@ samples, guidance on mobile development, and a full API reference.
 
 
 Flutter 2 responsive web and mobile app
-https://www.youtube.com/watch?v=E7HXJviWoYY&t=18s
+https://youtu.be/E7HXJviWoYY
+
+Firebase Hosting tutorial
+https://youtu.be/7yLHmy2djx0
 
 
 For deploying it to the Firebase, we need to perform a few steps.
