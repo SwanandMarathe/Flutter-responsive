@@ -16,6 +16,10 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
+Flutter 2 responsive web and mobile app
+https://www.youtube.com/watch?v=E7HXJviWoYY&t=18s
+
+
 For deploying it to the Firebase, we need to perform a few steps.
 
 Step1.
