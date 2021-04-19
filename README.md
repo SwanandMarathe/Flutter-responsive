@@ -16,10 +16,10 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-Flutter 2 responsive web and mobile app
+**Flutter 2 responsive web and mobile app**
 https://youtu.be/E7HXJviWoYY
 
-Firebase Hosting tutorial
+**Firebase Hosting tutorial**
 https://youtu.be/7yLHmy2djx0
 
 
